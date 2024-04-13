@@ -1,0 +1,9 @@
+{
+    "input": {
+        "matches": "data/input/matches.csv",
+        "deliveries": "data/input/deliveries.csv"
+    },
+    "output": {
+        "match_stats": "data/output/match_stats/"
+    }
+}

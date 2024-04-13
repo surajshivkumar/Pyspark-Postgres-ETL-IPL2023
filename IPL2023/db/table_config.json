@@ -1,0 +1,12 @@
+{
+    "ipl_db":{
+        "dbname":"student",
+        "host":"localhost",
+        "user":"student",
+        "port":5432,
+        "password":"ism6562",
+        "table_match_info":"matchdetails",
+        "table_match_stats":"matchstats",
+        "table_powerplay_stats":"powerplaystats"
+    }
+}
